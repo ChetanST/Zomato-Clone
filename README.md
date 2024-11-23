@@ -1,4 +1,4 @@
-Zomato Clone Using HTML and CSS.
+Zomato Clone Using HTML And CSS.
 
 Previw Below 👇
 
